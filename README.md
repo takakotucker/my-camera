@@ -10,10 +10,17 @@ npm run dev
 yarn dev
 ```
 
+## Idea behind
+
+- NextJS
+- GraphQL for API served on localhost
+- GraphQL client fetch data, pass it in props
+
 ## Need to complete
 
-1: Fix errors
-2: Add logics/functions to inject data into relevant table
-3: Add Map
-4: Unit tests
-5: CLI
+- Fix errors (Unfortunately errors need resolving)
+- Add logics/functions to inject data into relevant table
+- Add Map
+- Unit tests
+- CLI
+- TypeScript
