@@ -14,3 +14,27 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+table td {
+  vertical-align: top;
+}
+
+table thead tr:nth-child(1) th {
+  height: 75px;
+  background-color: #272727;
+  color: #7F7F7C;
+  font-size: 3.0em;
+}
+
+table tr:nth-child(2) th {
+  text-align: left;
+  height: 25px;
+}
+
+h1 {
+  padding: 20px 0 20px 55px;
+  margin: 0 0 0 20px;
+  background-size: 40px;
+  background-position: 0 50%;
+}
